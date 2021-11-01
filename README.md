@@ -8,4 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Norby99&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=voice-assistant)](https://github.com/Norby99/voice-assistant)
+
 </div>
