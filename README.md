@@ -7,5 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norby99&layout=compact&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Norby99&repo=voice-assistant&show_owner=true&theme=radical)](https://github.com/Norby99/voice-assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Norby99&repo=MenuPizze&show_owner=true&theme=radical)](https://github.com/Norby99/MenuPizze)
 
 </div>
